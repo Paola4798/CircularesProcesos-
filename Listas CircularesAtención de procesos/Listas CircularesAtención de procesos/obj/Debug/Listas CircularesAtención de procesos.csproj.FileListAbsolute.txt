@@ -1,0 +1,9 @@
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas CircularesAtención de procesos.csprojResolveAssemblyReference.cache
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas_CircularesAtención_de_procesos.Form1.resources
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas_CircularesAtención_de_procesos.Properties.Resources.resources
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas CircularesAtención de procesos.csproj.GenerateResource.Cache
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\bin\Debug\Listas CircularesAtención de procesos.exe.config
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\bin\Debug\Listas CircularesAtención de procesos.exe
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\bin\Debug\Listas CircularesAtención de procesos.pdb
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas CircularesAtención de procesos.exe
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\Listas CircularesAtención de procesos\Listas CircularesAtención de procesos\obj\Debug\Listas CircularesAtención de procesos.pdb
